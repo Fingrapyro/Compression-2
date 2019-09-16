@@ -1,0 +1,13 @@
+public class Starter
+{
+
+    public static void main(String args[])
+    {
+            run();
+    }
+
+    public static void run()
+    {
+        Parvus parvus = new Parvus();
+    }
+}
